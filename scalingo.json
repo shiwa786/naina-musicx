@@ -1,0 +1,24 @@
+{
+ "name": "Telegram music Bot",
+ "description": "A Telegram Bot in Pyrogram by @Lobe_ju",
+ "keywords": [
+  "telegram",
+  "video",
+  "merge",
+  "bot"
+ ],
+ "repository": "https://github.com/NAINA-XD/NAINA-MUSICX",
+ "website": "https://telegram.dog/lobe_ju",
+ "stack": "container",
+ "env": {
+  "CONFIG_FILE_URL": {
+   "description": "Make Config on gist and paste raw link "
+  }
+ },
+ "formation": {
+  "worker": {
+   "quantity": 1,
+   "size": "free"
+  }
+ }
+}
