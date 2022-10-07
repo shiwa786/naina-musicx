@@ -1,2 +1,1 @@
-web: python -m AnonX $PORT
-worker: bash start
+worker: python -m AnonX
