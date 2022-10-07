@@ -1,14 +1,14 @@
 {
- "name": "Telegram music Bot",
- "description": "A Telegram Bot in Pyrogram by @Lobe_ju",
+ "name": "ιккυ music Bot",
+ "description": "A Telegram Bot in Pyrogram by @sidekickfriendss",
  "keywords": [
   "telegram",
   "video",
   "merge",
   "bot"
  ],
- "repository": "https://github.com/NAINA-XD/NAINA-MUSICX",
- "website": "https://telegram.dog/lobe_ju",
+ "repository": "https://github.com/",
+ "website": "https://telegram.dog/ikku_hoi",
  "stack": "container",
  "env": {
   "CONFIG_FILE_URL": {
